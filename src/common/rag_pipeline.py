@@ -44,7 +44,10 @@ class RagPipeline:
         Tables = []
         Text = []
 
+        # Split the documents into tables and text
         for element in documents:
+
+            # Check if the element is a table or text
             if element.metadata["category"] == "Table":
 
                 table = parse_html_table(element.metadata["text_as_html"])
@@ -56,6 +59,7 @@ class RagPipeline:
                     metadata = element.metadata.copy()
                     metadata["category"] = "TableRow"
                     Tables.append(Document(page_content=content, metadata=metadata))
+
             elif element.metadata["category"] in [
                 "NarrativeText",
             ]:
