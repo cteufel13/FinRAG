@@ -1,0 +1,1065 @@
+{
+    "Emissions": {
+        "GHGEmissions": {
+            "Scope1": {
+                "FY22": {
+                    "value": 4612,
+                    "unit": "MTCO2e"
+                },
+                "FY23": {
+                    "value": 12346,
+                    "unit": "MTCO2e"
+                },
+                "FY24": {
+                    "value": 14390,
+                    "unit": "MTCO2e"
+                }
+            },
+            "Scope2MarketBased": {
+                "FY22": {
+                    "value": 78210,
+                    "unit": "MTCO2e"
+                },
+                "FY23": {
+                    "value": 60671,
+                    "unit": "MTCO2e"
+                },
+                "FY24": {
+                    "value": 40555,
+                    "unit": "MTCO2e"
+                }
+            },
+            "Scope1And2MarketBased": {
+                "FY22": {
+                    "value": 82822,
+                    "unit": "MTCO2e"
+                },
+                "FY23": {
+                    "value": 73017,
+                    "unit": "MTCO2e"
+                },
+                "FY24": {
+                    "value": 54945,
+                    "unit": "MTCO2e"
+                }
+            },
+            "Scope2LocationBased": {
+                "FY22": {
+                    "value": 133569,
+                    "unit": "MTCO2e"
+                },
+                "FY23": {
+                    "value": 142909,
+                    "unit": "MTCO2e"
+                },
+                "FY24": {
+                    "value": 178087,
+                    "unit": "MTCO2e"
+                }
+            },
+            "Scope3": {
+                "FY22": {
+                    "value": 2701477,
+                    "unit": "MTCO2e"
+                },
+                "FY23": {
+                    "value": 3514000,
+                    "unit": "MTCO2e"
+                },
+                "FY24": {
+                    "value": 3637478,
+                    "unit": "MTCO2e"
+                }
+            },
+            "Scope3Category1": {
+                "FY22": {
+                    "value": 2506722,
+                    "unit": "MTCO2e"
+                },
+                "FY23": {
+                    "value": 2975189,
+                    "unit": "MTCO2e"
+                },
+                "FY24": {
+                    "value": 3216144,
+                    "unit": "MTCO2e"
+                }
+            },
+            "Scope3Category2": {
+                "FY22": {
+                    "value": 62586,
+                    "unit": "MTCO2e"
+                },
+                "FY23": {
+                    "value": 353280,
+                    "unit": "MTCO2e"
+                },
+                "FY24": {
+                    "value": 200483,
+                    "unit": "MTCO2e"
+                }
+            },
+            "Scope3Category3": {
+                "FY22": {
+                    "value": 50631,
+                    "unit": "MTCO2e"
+                },
+                "FY23": {
+                    "value": 67805,
+                    "unit": "MTCO2e"
+                },
+                "FY24": {
+                    "value": 61590,
+                    "unit": "MTCO2e"
+                }
+            },
+            "Scope3Category4": {
+                "FY22": {
+                    "value": 37910,
+                    "unit": "MTCO2e"
+                },
+                "FY23": {
+                    "value": 60572,
+                    "unit": "MTCO2e"
+                },
+                "FY24": {
+                    "value": 72562,
+                    "unit": "MTCO2e"
+                }
+            },
+            "Scope3Category5": {
+                "FY22": {
+                    "value": 291,
+                    "unit": "MTCO2e"
+                },
+                "FY23": {
+                    "value": 579,
+                    "unit": "MTCO2e"
+                },
+                "FY24": {
+                    "value": 617,
+                    "unit": "MTCO2e"
+                }
+            },
+            "Scope3Category6": {
+                "FY22": {
+                    "value": 576,
+                    "unit": "MTCO2e"
+                },
+                "FY23": {
+                    "value": 8633,
+                    "unit": "MTCO2e"
+                },
+                "FY24": {
+                    "value": 17132,
+                    "unit": "MTCO2e"
+                }
+            },
+            "Scope3Category7": {
+                "FY22": {
+                    "value": 21189,
+                    "unit": "MTCO2e"
+                },
+                "FY23": {
+                    "value": 14990,
+                    "unit": "MTCO2e"
+                },
+                "FY24": {
+                    "value": 23019,
+                    "unit": "MTCO2e"
+                }
+            },
+            "Scope3Category8": {
+                "FY22": {
+                    "value": 21572,
+                    "unit": "MTCO2e"
+                },
+                "FY23": {
+                    "value": 32952,
+                    "unit": "MTCO2e"
+                },
+                "FY24": {
+                    "value": 45931,
+                    "unit": "MTCO2e"
+                }
+            },
+            "GHGEmissionsIntensity": {
+                "FY22": {
+                    "value": 3.1,
+                    "unit": "MT CO2e/$M revenue"
+                },
+                "FY23": {
+                    "value": 2.7,
+                    "unit": "MT CO2e/$M revenue"
+                },
+                "FY24": {
+                    "value": 0.9,
+                    "unit": "MT CO2e/$M revenue"
+                }
+            }
+        }
+    },
+    "Energy": {
+        "EnergyUsed": {
+            "FY22": {
+                "value": 424997,
+                "unit": "MWh"
+            },
+            "FY23": {
+                "value": 496901,
+                "unit": "MWh"
+            },
+            "FY24": {
+                "value": 612008,
+                "unit": "MWh"
+            }
+        },
+        "NonRenewableElectricityPurchased": {
+            "FY22": {
+                "value": 251760,
+                "unit": "MWh"
+            },
+            "FY23": {
+                "value": 249429,
+                "unit": "MWh"
+            },
+            "FY24": {
+                "value": 134287,
+                "unit": "MWh"
+            }
+        },
+        "RenewableElectricityPurchased": {
+            "FY22": {
+                "value": 154160,
+                "unit": "MWh"
+            },
+            "FY23": {
+                "value": 193465,
+                "unit": "MWh"
+            },
+            "FY24": {
+                "value": 419980,
+                "unit": "MWh"
+            }
+        },
+        "RenewableElectricityGeneratedOnsiteSolar": {
+            "FY22": {
+                "value": 762,
+                "unit": "MWh"
+            },
+            "FY23": {
+                "value": 1079,
+                "unit": "MWh"
+            },
+            "FY24": {
+                "value": 599,
+                "unit": "MWh"
+            }
+        },
+        "FuelsPurchased": {
+            "FY22": {
+                "value": 18315,
+                "unit": "MWh"
+            },
+            "FY23": {
+                "value": 52927,
+                "unit": "MWh"
+            },
+            "FY24": {
+                "value": 57142,
+                "unit": "MWh"
+            }
+        },
+        "RenewableElectricityPercentage": {
+            "FY22": {
+                "value": 38,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 44,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 76,
+                "unit": "%"
+            }
+        },
+        "EnergyIntensity": {
+            "FY22": {
+                "value": 15.8,
+                "unit": "Energy used MWh/$M revenue"
+            },
+            "FY23": {
+                "value": 18.4,
+                "unit": "Energy used MWh/$M revenue"
+            },
+            "FY24": {
+                "value": 10.1,
+                "unit": "Energy used MWh/$M revenue"
+            }
+        }
+    },
+    "Waste": {
+        "WasteGenerated": {
+            "FY22": {
+                "value": 937,
+                "unit": "metric tons"
+            },
+            "FY23": {
+                "value": 1856,
+                "unit": "metric tons"
+            },
+            "FY24": {
+                "value": 2345,
+                "unit": "metric tons"
+            }
+        },
+        "WasteRecycledComposted": {
+            "FY22": {
+                "value": 526,
+                "unit": "metric tons"
+            },
+            "FY23": {
+                "value": 1068,
+                "unit": "metric tons"
+            },
+            "FY24": {
+                "value": 1658,
+                "unit": "metric tons"
+            }
+        },
+        "LandfillDiversionRate": {
+            "FY22": {
+                "value": 56,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 58,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 71,
+                "unit": "%"
+            }
+        },
+        "GeneralWasteRecycled": {
+            "FY22": {
+                "value": 127,
+                "unit": "metric tons"
+            },
+            "FY23": {
+                "value": 295,
+                "unit": "metric tons"
+            },
+            "FY24": {
+                "value": 374,
+                "unit": "metric tons"
+            }
+        },
+        "GeneralWasteComposted": {
+            "FY22": {
+                "value": 102,
+                "unit": "metric tons"
+            },
+            "FY23": {
+                "value": 460,
+                "unit": "metric tons"
+            },
+            "FY24": {
+                "value": 928,
+                "unit": "metric tons"
+            }
+        },
+        "CleanPaperRecycled": {
+            "FY22": {
+                "value": 17,
+                "unit": "metric tons"
+            },
+            "FY23": {
+                "value": 48,
+                "unit": "metric tons"
+            },
+            "FY24": {
+                "value": 26,
+                "unit": "metric tons"
+            }
+        },
+        "BatteriesHazardousWasteAndLampsRecycled": {
+            "FY22": {
+                "value": 1,
+                "unit": "metric tons"
+            },
+            "FY23": {
+                "value": 3,
+                "unit": "metric tons"
+            },
+            "FY24": {
+                "value": 3,
+                "unit": "metric tons"
+            }
+        },
+        "ElectronicWasteRecycled": {
+            "FY22": {
+                "value": 51,
+                "unit": "metric tons"
+            },
+            "FY23": {
+                "value": 152,
+                "unit": "metric tons"
+            },
+            "FY24": {
+                "value": 58,
+                "unit": "metric tons"
+            }
+        },
+        "ConstructionDemolitionWasteRecycled": {
+            "FY22": {
+                "value": 228,
+                "unit": "metric tons"
+            },
+            "FY23": {
+                "value": 83,
+                "unit": "metric tons"
+            },
+            "FY24": {
+                "value": 270,
+                "unit": "metric tons"
+            }
+        },
+        "WasteLandfilled": {
+            "FY22": {
+                "value": 411,
+                "unit": "metric tons"
+            },
+            "FY23": {
+                "value": 789,
+                "unit": "metric tons"
+            },
+            "FY24": {
+                "value": 687,
+                "unit": "metric tons"
+            }
+        },
+        "GeneralWasteLandfilled": {
+            "FY22": {
+                "value": 224,
+                "unit": "metric tons"
+            },
+            "FY23": {
+                "value": 696,
+                "unit": "metric tons"
+            },
+            "FY24": {
+                "value": 639,
+                "unit": "metric tons"
+            }
+        },
+        "HazardousWasteLandfilled": {
+            "FY22": {
+                "value": 0,
+                "unit": "metric tons"
+            },
+            "FY23": {
+                "value": 7,
+                "unit": "metric tons"
+            },
+            "FY24": {
+                "value": 0,
+                "unit": "metric tons"
+            }
+        },
+        "ConstructionDemolitionWasteLandfilled": {
+            "FY22": {
+                "value": 186,
+                "unit": "metric tons"
+            },
+            "FY23": {
+                "value": 86,
+                "unit": "metric tons"
+            },
+            "FY24": {
+                "value": 48,
+                "unit": "metric tons"
+            }
+        }
+    },
+    "Water": {
+        "WaterWithdrawal": {
+            "FY22": {
+                "value": 431991,
+                "unit": "m\u00b3"
+            },
+            "FY23": {
+                "value": 376656,
+                "unit": "m\u00b3"
+            },
+            "FY24": {
+                "value": 382636,
+                "unit": "m\u00b3"
+            }
+        },
+        "WaterConsumption": {
+            "FY22": {
+                "value": 239780,
+                "unit": "m\u00b3"
+            },
+            "FY23": {
+                "value": 197849,
+                "unit": "m\u00b3"
+            },
+            "FY24": {
+                "value": 134219,
+                "unit": "m\u00b3"
+            }
+        },
+        "WaterDischarge": {
+            "FY22": {
+                "value": 192210,
+                "unit": "m\u00b3"
+            },
+            "FY23": {
+                "value": 178807,
+                "unit": "m\u00b3"
+            },
+            "FY24": {
+                "value": 248417,
+                "unit": "m\u00b3"
+            }
+        }
+    },
+    "ProductValueChain": {
+        "NVIDIAGPUSystemsPackagingRecyclableMaterials": {
+            "FY24": {
+                "value": 90,
+                "unit": "%+"
+            }
+        }
+    },
+    "PeopleDiversityAndInclusion": {
+        "LostTimeCaseRateUS": {
+            "FY23": {
+                "value": 0.01
+            },
+            "FY24": {
+                "value": 0.01
+            }
+        },
+        "OSHARecordableIncidentRateUS": {
+            "FY22": {
+                "value": 0.06
+            },
+            "FY23": {
+                "value": 0.1
+            },
+            "FY24": {
+                "value": 0.11
+            }
+        },
+        "GlobalTurnover": {
+            "FY22": {
+                "value": 4.9,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 5.3,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 2.7,
+                "unit": "%"
+            }
+        },
+        "ManTurnover": {
+            "FY22": {
+                "value": 4.7,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 5.3,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 2.8,
+                "unit": "%"
+            }
+        },
+        "WomanTurnover": {
+            "FY22": {
+                "value": 5.7,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 5.1,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 2.7,
+                "unit": "%"
+            }
+        },
+        "AsianTurnoverUS": {
+            "FY22": {
+                "value": 4.2,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 4.2,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 2.1,
+                "unit": "%"
+            }
+        },
+        "BlackAfricanAmericanTurnoverUS": {
+            "FY22": {
+                "value": 5.7,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 5.8,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 3.1,
+                "unit": "%"
+            }
+        },
+        "HispanicLatinoTurnoverUS": {
+            "FY22": {
+                "value": 4.7,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 3.3,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 1.6,
+                "unit": "%"
+            }
+        },
+        "WomenMenPayRatio": {
+            "FY22": {
+                "value": "99.0|100"
+            },
+            "FY23": {
+                "value": "99.5|100"
+            },
+            "FY24": {
+                "value": "99.5|100"
+            }
+        },
+        "AsianWhitePayRatio": {
+            "FY22": {
+                "value": "100.2|100"
+            },
+            "FY23": {
+                "value": "100.1|100"
+            },
+            "FY24": {
+                "value": "100.1|100"
+            }
+        },
+        "BlackAfricanAmericanWhitePayRatio": {
+            "FY22": {
+                "value": "102.4|100"
+            },
+            "FY23": {
+                "value": "101.5|100"
+            },
+            "FY24": {
+                "value": "101.5|100"
+            }
+        },
+        "HispanicLatinoWhitePayRatio": {
+            "FY22": {
+                "value": "98.5|100"
+            },
+            "FY23": {
+                "value": "99.2|100"
+            },
+            "FY24": {
+                "value": "99.2|100"
+            }
+        },
+        "EmployeesByRegionAmericas": {
+            "FY22": {
+                "value": 48.5,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 49.6,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 49.8,
+                "unit": "%"
+            }
+        },
+        "EmployeesByRegionAPAC": {
+            "FY22": {
+                "value": 16.2,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 16.7,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 16.8,
+                "unit": "%"
+            }
+        },
+        "EmployeesByRegionEMEA": {
+            "FY22": {
+                "value": 20.3,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 19.7,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 19.8,
+                "unit": "%"
+            }
+        },
+        "EmployeesByRegionIndia": {
+            "FY22": {
+                "value": 15.0,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 14.1,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 13.6,
+                "unit": "%"
+            }
+        },
+        "EmployeeTypeExecutive": {
+            "FY22": {
+                "value": 0.1,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 0.1,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 0.1,
+                "unit": "%"
+            }
+        },
+        "EmployeeTypeManagement": {
+            "FY22": {
+                "value": 17.6,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 17.2,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 16.7,
+                "unit": "%"
+            }
+        },
+        "EmployeeTypeRegularEmployees": {
+            "FY22": {
+                "value": 82.3,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 82.7,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 83.2,
+                "unit": "%"
+            }
+        },
+        "EmployeeAge20to30Years": {
+            "FY22": {
+                "value": 22.7,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 22.8,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 22.0,
+                "unit": "%"
+            }
+        },
+        "EmployeeAge31to50Years": {
+            "FY22": {
+                "value": 62.8,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 62.8,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 63.4,
+                "unit": "%"
+            }
+        },
+        "EmployeeAge51PlusYears": {
+            "FY22": {
+                "value": 14.5,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 14.4,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 14.6,
+                "unit": "%"
+            }
+        },
+        "EmployeeGenderWomen": {
+            "FY22": {
+                "value": 19.0,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 19.2,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 19.7,
+                "unit": "%"
+            }
+        },
+        "EmployeeGenderMen": {
+            "FY22": {
+                "value": 80.4,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 80.0,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 79.4,
+                "unit": "%"
+            }
+        },
+        "EmployeeTechnicalRolesWomen": {
+            "FY22": {
+                "value": 14.4,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 14.7,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 15.2,
+                "unit": "%"
+            }
+        },
+        "EmployeeManagersWomen": {
+            "FY22": {
+                "value": 16.5,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 17.1,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 17.7,
+                "unit": "%"
+            }
+        },
+        "EmployeeLeadersWomen": {
+            "FY22": {
+                "value": 12.0,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 11.4,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 13.1,
+                "unit": "%"
+            }
+        },
+        "EmployeeExecutiveOfficersWomen": {
+            "FY22": {
+                "value": 40.0,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 40.0,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 40.0,
+                "unit": "%"
+            }
+        },
+        "EmployeeBoardOfDirectorsWomen": {
+            "FY22": {
+                "value": 23.1,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 23.1,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 33.3,
+                "unit": "%"
+            }
+        },
+        "RaceEthnicityAmericanIndianOrAlaskaNative": {
+            "FY22": {
+                "value": 0.2,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 0.1,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 0.1,
+                "unit": "%"
+            }
+        },
+        "RaceEthnicityAsian": {
+            "FY22": {
+                "value": 49.2,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 50.0,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 51.0,
+                "unit": "%"
+            }
+        },
+        "RaceEthnicityBlackOrAfricanAmerican": {
+            "FY22": {
+                "value": 2.4,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 2.2,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 2.1,
+                "unit": "%"
+            }
+        },
+        "RaceEthnicityHispanicOrLatino": {
+            "FY22": {
+                "value": 3.3,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 3.6,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 3.9,
+                "unit": "%"
+            }
+        },
+        "RaceEthnicityNativeHawaiianOrOtherPacificIslander": {
+            "FY22": {
+                "value": 0.3,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 0.3,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 0.3,
+                "unit": "%"
+            }
+        },
+        "RaceEthnicityTwoOrMoreRaces": {
+            "FY22": {
+                "value": 1.4,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 1.4,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 1.5,
+                "unit": "%"
+            }
+        },
+        "RaceEthnicityWhite": {
+            "FY22": {
+                "value": 36.8,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 36.3,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 35.3,
+                "unit": "%"
+            }
+        },
+        "EmployeesIdentificationDisability": {
+            "FY22": {
+                "value": 2.1,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 2.7,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 3.2,
+                "unit": "%"
+            }
+        },
+        "EmployeesIdentificationVeteran": {
+            "FY22": {
+                "value": 1.4,
+                "unit": "%"
+            },
+            "FY23": {
+                "value": 1.5,
+                "unit": "%"
+            },
+            "FY24": {
+                "value": 1.5,
+                "unit": "%"
+            }
+        }
+    },
+    "ClimateTargets": {
+        "RenewableElectricity": {
+            "FY24": {
+                "value": 76,
+                "unit": "%"
+            }
+        },
+        "supplierEngagement": {
+            "FY24": {
+                "value": 60,
+                "unit": "%+"
+            }
+        }
+    }
+}

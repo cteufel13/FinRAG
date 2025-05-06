@@ -25,6 +25,10 @@ class RagPipeline:
         self.retriever = None
         self.qa_chain = None
 
+        raise DeprecationWarning(
+            "RagPipeline is deprecated. Please use the new pipeline class."
+        )
+
     def load_pdf(self, pdf_path: str) -> List[Document]:
         """Load PDF file and return a Document object."""
         loader = UnstructuredPDFLoader(
@@ -70,8 +74,8 @@ class RagPipeline:
             chunk_overlap=chunk_overlap,
             separators=["\n\n", "\n", ".", "!", "?", " ", ""],
         )
-        chunks = text_splitter.split_documents(Text + Tables)
-        return chunks
+        chunks = text_splitter.split_documents(Text)
+        return chunks + Tables
 
     def create_vectordb(
         self,

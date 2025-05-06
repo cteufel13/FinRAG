@@ -1,0 +1,914 @@
+{
+    "Emissions": {
+        "GHGEmissions": [
+            {
+                "Scope1": {
+                    "2019": {
+                        "value": 81900,
+                        "unit": "tCO2e"
+                    },
+                    "2020": {
+                        "value": 55800,
+                        "unit": "tCO2e"
+                    },
+                    "2021": {
+                        "value": 64100,
+                        "unit": "tCO2e"
+                    },
+                    "2022": {
+                        "value": 91200,
+                        "unit": "tCO2e"
+                    },
+                    "2023": {
+                        "value": 79400,
+                        "unit": "tCO2e"
+                    }
+                },
+                "Scope2MarketBased": {
+                    "2019": {
+                        "value": 835500,
+                        "unit": "tCO2e"
+                    },
+                    "2020": {
+                        "value": 911400,
+                        "unit": "tCO2e"
+                    },
+                    "2021": {
+                        "value": 1823100,
+                        "unit": "tCO2e"
+                    },
+                    "2022": {
+                        "value": 2492200,
+                        "unit": "tCO2e"
+                    },
+                    "2023": {
+                        "value": 3423400,
+                        "unit": "tCO2e"
+                    }
+                },
+                "Scope2LocationBased": {
+                    "2019": {
+                        "value": 5116900,
+                        "unit": "tCO2e"
+                    },
+                    "2020": {
+                        "value": 5865100,
+                        "unit": "tCO2e"
+                    },
+                    "2021": {
+                        "value": 6576200,
+                        "unit": "tCO2e"
+                    },
+                    "2022": {
+                        "value": 8045400,
+                        "unit": "tCO2e"
+                    },
+                    "2023": {
+                        "value": 9252900,
+                        "unit": "tCO2e"
+                    }
+                },
+                "Scope3Total": {
+                    "2019": {
+                        "value": 8754000,
+                        "unit": "tCO2e"
+                    },
+                    "2020": {
+                        "value": 7600000,
+                        "unit": "tCO2e"
+                    },
+                    "2021": {
+                        "value": 8888000,
+                        "unit": "tCO2e"
+                    },
+                    "2022": {
+                        "value": 10034000,
+                        "unit": "tCO2e"
+                    },
+                    "2023": {
+                        "value": 10812000,
+                        "unit": "tCO2e"
+                    }
+                },
+                "TotalEmissions": {
+                    "2019": {
+                        "value": 9671400,
+                        "unit": "tCO2e"
+                    },
+                    "2020": {
+                        "value": 8567200,
+                        "unit": "tCO2e"
+                    },
+                    "2021": {
+                        "value": 10775200,
+                        "unit": "tCO2e"
+                    },
+                    "2022": {
+                        "value": 12617400,
+                        "unit": "tCO2e"
+                    },
+                    "2023": {
+                        "value": 14314800,
+                        "unit": "tCO2e"
+                    }
+                }
+            }
+        ],
+        "CarbonIntensity": [
+            {
+                "PerRevenue": {
+                    "2019": {
+                        "value": 5.67,
+                        "unit": "tCO2e/million USD ($)"
+                    },
+                    "2020": {
+                        "value": 5.3,
+                        "unit": "tCO2e/million USD ($)"
+                    },
+                    "2021": {
+                        "value": 7.33,
+                        "unit": "tCO2e/million USD ($)"
+                    },
+                    "2022": {
+                        "value": 9.13,
+                        "unit": "tCO2e/million USD ($)"
+                    },
+                    "2023": {
+                        "value": 11.4,
+                        "unit": "tCO2e/million USD ($)"
+                    }
+                },
+                "PerFTE": {
+                    "2019": {
+                        "value": 8.48,
+                        "unit": "tCO2e/FTE"
+                    },
+                    "2020": {
+                        "value": 7.62,
+                        "unit": "tCO2e/FTE"
+                    },
+                    "2021": {
+                        "value": 13.0,
+                        "unit": "tCO2e/FTE"
+                    },
+                    "2022": {
+                        "value": 14.76,
+                        "unit": "tCO2e/FTE"
+                    },
+                    "2023": {
+                        "value": 19.02,
+                        "unit": "tCO2e/FTE"
+                    }
+                },
+                "PerMWh": {
+                    "2019": {
+                        "value": 0.0717,
+                        "unit": "tCO2e/MWh"
+                    },
+                    "2020": {
+                        "value": 0.0624,
+                        "unit": "tCO2e/MWh"
+                    },
+                    "2021": {
+                        "value": 0.1012,
+                        "unit": "tCO2e/MWh"
+                    },
+                    "2022": {
+                        "value": 0.1155,
+                        "unit": "tCO2e/MWh"
+                    },
+                    "2023": {
+                        "value": 0.1352,
+                        "unit": "tCO2e/MWh"
+                    }
+                }
+            }
+        ],
+        "BiogenicEmissions": [
+            {
+                "Value": {
+                    "2019": {
+                        "value": 21900,
+                        "unit": "tCO2"
+                    },
+                    "2020": {
+                        "value": 5400,
+                        "unit": "tCO2"
+                    },
+                    "2021": {
+                        "value": 3800,
+                        "unit": "tCO2"
+                    },
+                    "2022": {
+                        "value": 17900,
+                        "unit": "tCO2"
+                    },
+                    "2023": {
+                        "value": 18700,
+                        "unit": "tCO2"
+                    }
+                }
+            }
+        ]
+    },
+    "Energy": {
+        "TotalEnergyConsumption": [
+            {
+                "Fuel": {
+                    "2019": {
+                        "value": 366400,
+                        "unit": "MWh"
+                    },
+                    "2020": {
+                        "value": 181800,
+                        "unit": "MWh"
+                    },
+                    "2021": {
+                        "value": 205200,
+                        "unit": "MWh"
+                    },
+                    "2022": {
+                        "value": 374800,
+                        "unit": "MWh"
+                    },
+                    "2023": {
+                        "value": 301200,
+                        "unit": "MWh"
+                    }
+                },
+                "PurchasedElectricity": {
+                    "2019": {
+                        "value": 12226200,
+                        "unit": "MWh"
+                    },
+                    "2020": {
+                        "value": 15125700,
+                        "unit": "MWh"
+                    },
+                    "2021": {
+                        "value": 18238400,
+                        "unit": "MWh"
+                    },
+                    "2022": {
+                        "value": 21685300,
+                        "unit": "MWh"
+                    },
+                    "2023": {
+                        "value": 25252600,
+                        "unit": "MWh"
+                    }
+                },
+                "PurchasedHeat": {
+                    "2019": {
+                        "value": 150500,
+                        "unit": "MWh"
+                    },
+                    "2020": {
+                        "value": 124900,
+                        "unit": "MWh"
+                    },
+                    "2021": {
+                        "value": 119300,
+                        "unit": "MWh"
+                    },
+                    "2022": {
+                        "value": 219100,
+                        "unit": "MWh"
+                    },
+                    "2023": {
+                        "value": 278500,
+                        "unit": "MWh"
+                    }
+                },
+                "PurchasedSteam": {
+                    "2019": {
+                        "value": 17600,
+                        "unit": "MWh"
+                    },
+                    "2020": {
+                        "value": 17600,
+                        "unit": "MWh"
+                    },
+                    "2021": {
+                        "value": 22600,
+                        "unit": "MWh"
+                    },
+                    "2022": {
+                        "value": 23500,
+                        "unit": "MWh"
+                    },
+                    "2023": {
+                        "value": 14500,
+                        "unit": "MWh"
+                    }
+                },
+                "PurchasedCooling": {
+                    "2019": {
+                        "value": 34900,
+                        "unit": "MWh"
+                    },
+                    "2020": {
+                        "value": 34800,
+                        "unit": "MWh"
+                    },
+                    "2021": {
+                        "value": 45600,
+                        "unit": "MWh"
+                    },
+                    "2022": {
+                        "value": 54800,
+                        "unit": "MWh"
+                    },
+                    "2023": {
+                        "value": 53000,
+                        "unit": "MWh"
+                    }
+                },
+                "OnSiteRenewableElectricity": {
+                    "2019": {
+                        "value": 6300,
+                        "unit": "MWh"
+                    },
+                    "2020": {
+                        "value": 7200,
+                        "unit": "MWh"
+                    },
+                    "2021": {
+                        "value": 8800,
+                        "unit": "MWh"
+                    },
+                    "2022": {
+                        "value": 9600,
+                        "unit": "MWh"
+                    },
+                    "2023": {
+                        "value": 10700,
+                        "unit": "MWh"
+                    }
+                },
+                "Total": {
+                    "2019": {
+                        "value": 12801900,
+                        "unit": "MWh"
+                    },
+                    "2020": {
+                        "value": 15492000,
+                        "unit": "MWh"
+                    },
+                    "2021": {
+                        "value": 18639900,
+                        "unit": "MWh"
+                    },
+                    "2022": {
+                        "value": 22367100,
+                        "unit": "MWh"
+                    },
+                    "2023": {
+                        "value": 25910500,
+                        "unit": "MWh"
+                    }
+                }
+            }
+        ],
+        "ElectricityConsumption": [
+            {
+                "Total": {
+                    "2019": {
+                        "value": 12237200,
+                        "unit": "MWh"
+                    },
+                    "2020": {
+                        "value": 15138500,
+                        "unit": "MWh"
+                    },
+                    "2021": {
+                        "value": 18287100,
+                        "unit": "MWh"
+                    },
+                    "2022": {
+                        "value": 21776200,
+                        "unit": "MWh"
+                    },
+                    "2023": {
+                        "value": 25307000,
+                        "unit": "MWh"
+                    }
+                }
+            }
+        ],
+        "RenewableEnergyContracts": [
+            {
+                "Cumulative": {
+                    "2019": {
+                        "value": 5400,
+                        "unit": "MW"
+                    },
+                    "2020": {
+                        "value": 5700,
+                        "unit": "MW"
+                    },
+                    "2021": {
+                        "value": 7200,
+                        "unit": "MW"
+                    },
+                    "2022": {
+                        "value": 11600,
+                        "unit": "MW"
+                    },
+                    "2023": {
+                        "value": 14900,
+                        "unit": "MW"
+                    }
+                },
+                "RenewableElectricityPPAs": {
+                    "2019": {
+                        "value": 9715000,
+                        "unit": "MWh"
+                    },
+                    "2020": {
+                        "value": 12069200,
+                        "unit": "MWh"
+                    },
+                    "2021": {
+                        "value": 14109400,
+                        "unit": "MWh"
+                    },
+                    "2022": {
+                        "value": 16693600,
+                        "unit": "MWh"
+                    },
+                    "2023": {
+                        "value": 19089200,
+                        "unit": "MWh"
+                    }
+                },
+                "RenewableElectricityOnSite": {
+                    "2019": {
+                        "value": 6300,
+                        "unit": "MWh"
+                    },
+                    "2020": {
+                        "value": 7200,
+                        "unit": "MWh"
+                    },
+                    "2021": {
+                        "value": 8800,
+                        "unit": "MWh"
+                    },
+                    "2022": {
+                        "value": 9600,
+                        "unit": "MWh"
+                    },
+                    "2023": {
+                        "value": 10700,
+                        "unit": "MWh"
+                    }
+                },
+                "RenewableElectricityGrid": {
+                    "2019": {
+                        "value": 2515900,
+                        "unit": "MWh"
+                    },
+                    "2020": {
+                        "value": 3062100,
+                        "unit": "MWh"
+                    },
+                    "2021": {
+                        "value": 4168900,
+                        "unit": "MWh"
+                    },
+                    "2022": {
+                        "value": 5073000,
+                        "unit": "MWh"
+                    },
+                    "2023": {
+                        "value": 6207100,
+                        "unit": "MWh"
+                    }
+                },
+                "TotalRenewableElectricityPurchased": {
+                    "2019": {
+                        "value": 12237200,
+                        "unit": "MWh"
+                    },
+                    "2020": {
+                        "value": 15138500,
+                        "unit": "MWh"
+                    },
+                    "2021": {
+                        "value": 18287100,
+                        "unit": "MWh"
+                    },
+                    "2022": {
+                        "value": 21776200,
+                        "unit": "MWh"
+                    },
+                    "2023": {
+                        "value": 25307000,
+                        "unit": "MWh"
+                    }
+                },
+                "ElectricityPurchasedFromRenewableSources": {
+                    "2019": {
+                        "value": 100,
+                        "unit": "%"
+                    },
+                    "2020": {
+                        "value": 100,
+                        "unit": "%"
+                    },
+                    "2021": {
+                        "value": 100,
+                        "unit": "%"
+                    },
+                    "2022": {
+                        "value": 100,
+                        "unit": "%"
+                    },
+                    "2023": {
+                        "value": 100,
+                        "unit": "%"
+                    }
+                }
+            }
+        ],
+        "DataCenterEnergyEfficiency": [
+            {
+                "AverageAnnualFleetWidePUE": {
+                    "2019": {
+                        "value": 1.1,
+                        "unit": "PUE"
+                    },
+                    "2020": {
+                        "value": 1.1,
+                        "unit": "PUE"
+                    },
+                    "2021": {
+                        "value": 1.1,
+                        "unit": "PUE"
+                    },
+                    "2022": {
+                        "value": 1.1,
+                        "unit": "PUE"
+                    },
+                    "2023": {
+                        "value": 1.1,
+                        "unit": "PUE"
+                    }
+                }
+            }
+        ],
+        "CarbonFreeEnergy": [
+            {
+                "acrossGoogleDataCentersHourly": {
+                    "2019": {
+                        "value": 61,
+                        "unit": "%"
+                    },
+                    "2020": {
+                        "value": 67,
+                        "unit": "%"
+                    },
+                    "2021": {
+                        "value": 66,
+                        "unit": "%"
+                    },
+                    "2022": {
+                        "value": 64,
+                        "unit": "%"
+                    },
+                    "2023": {
+                        "value": 64,
+                        "unit": "%"
+                    }
+                },
+                "acrossGoogleOfficesHourly": {
+                    "2022": {
+                        "value": 54,
+                        "unit": "%"
+                    },
+                    "2023": {
+                        "value": 56,
+                        "unit": "%"
+                    }
+                },
+                "acrossGoogleDataCentersAndOfficesHourly": {
+                    "2022": {
+                        "value": 64,
+                        "unit": "%"
+                    },
+                    "2023": {
+                        "value": 64,
+                        "unit": "%"
+                    }
+                }
+            }
+        ]
+    },
+    "Water": {
+        "GlobalOperationalWater": [
+            {
+                "WaterConsumption": {
+                    "2019": {
+                        "value": 3412.4,
+                        "unit": "Million gallons"
+                    },
+                    "2020": {
+                        "value": 3748.9,
+                        "unit": "Million gallons"
+                    },
+                    "2021": {
+                        "value": 4561.8,
+                        "unit": "Million gallons"
+                    },
+                    "2022": {
+                        "value": 5564.7,
+                        "unit": "Million gallons"
+                    },
+                    "2023": {
+                        "value": 6352.0,
+                        "unit": "Million gallons"
+                    }
+                },
+                "WaterDischarge": {
+                    "2019": {
+                        "value": 1748.3,
+                        "unit": "Million gallons"
+                    },
+                    "2020": {
+                        "value": 1939.8,
+                        "unit": "Million gallons"
+                    },
+                    "2021": {
+                        "value": 1734.8,
+                        "unit": "Million gallons"
+                    },
+                    "2022": {
+                        "value": 2034.9,
+                        "unit": "Million gallons"
+                    },
+                    "2023": {
+                        "value": 2301.3,
+                        "unit": "Million gallons"
+                    }
+                },
+                "WaterWithdrawal": {
+                    "2019": {
+                        "value": 5160.7,
+                        "unit": "Million gallons"
+                    },
+                    "2020": {
+                        "value": 5688.7,
+                        "unit": "Million gallons"
+                    },
+                    "2021": {
+                        "value": 6296.6,
+                        "unit": "Million gallons"
+                    },
+                    "2022": {
+                        "value": 7599.6,
+                        "unit": "Million gallons"
+                    },
+                    "2023": {
+                        "value": 8653.3,
+                        "unit": "Million gallons"
+                    }
+                }
+            }
+        ],
+        "WaterReplenishment": [
+            {
+                "WaterReplenished": {
+                    "2022": {
+                        "value": 271.0,
+                        "unit": "Million gallons"
+                    },
+                    "2023": {
+                        "value": 1035.9,
+                        "unit": "Million gallons"
+                    }
+                },
+                "ContractedWaterReplenishmentCapacity": {
+                    "2022": {
+                        "value": 1317.2,
+                        "unit": "Million gallons"
+                    },
+                    "2023": {
+                        "value": 2815.3,
+                        "unit": "Million gallons"
+                    }
+                }
+            }
+        ]
+    },
+    "Waste": {
+        "WasteGeneration": [
+            {
+                "Value": {
+                    "2019": {
+                        "value": 48100,
+                        "unit": "Metric tons"
+                    },
+                    "2020": {
+                        "value": 28900,
+                        "unit": "Metric tons"
+                    },
+                    "2021": {
+                        "value": 28200,
+                        "unit": "Metric tons"
+                    },
+                    "2022": {
+                        "value": 38200,
+                        "unit": "Metric tons"
+                    },
+                    "2023": {
+                        "value": 41100,
+                        "unit": "Metric tons"
+                    }
+                }
+            }
+        ],
+        "WasteDiversion": [
+            {
+                "DataCenterWasteDiversionRate": {
+                    "2019": {
+                        "value": 90,
+                        "unit": "%"
+                    },
+                    "2020": {
+                        "value": 81,
+                        "unit": "%"
+                    },
+                    "2021": {
+                        "value": 78,
+                        "unit": "%"
+                    },
+                    "2022": {
+                        "value": 86,
+                        "unit": "%"
+                    },
+                    "2023": {
+                        "value": 78,
+                        "unit": "%"
+                    }
+                },
+                "OfficeWasteDiversionRate": {
+                    "2019": {
+                        "value": 71,
+                        "unit": "%"
+                    },
+                    "2020": {
+                        "value": 71,
+                        "unit": "%"
+                    },
+                    "2021": {
+                        "value": 64,
+                        "unit": "%"
+                    },
+                    "2022": {
+                        "value": 75,
+                        "unit": "%"
+                    },
+                    "2023": {
+                        "value": 77,
+                        "unit": "%"
+                    }
+                },
+                "TotalWasteDiversionRate": {
+                    "2019": {
+                        "value": 77,
+                        "unit": "%"
+                    },
+                    "2020": {
+                        "value": 77,
+                        "unit": "%"
+                    },
+                    "2021": {
+                        "value": 77,
+                        "unit": "%"
+                    },
+                    "2022": {
+                        "value": 84,
+                        "unit": "%"
+                    },
+                    "2023": {
+                        "value": 78,
+                        "unit": "%"
+                    }
+                }
+            }
+        ],
+        "DataCenterHardwareRefurbishmentAndReuse": [
+            {
+                "RefurbishedInventoryUsedForServerDeploymentMaintenanceAndUpgrades": {
+                    "2020": {
+                        "value": 10,
+                        "unit": "%"
+                    },
+                    "2021": {
+                        "value": 13,
+                        "unit": "%"
+                    },
+                    "2022": {
+                        "value": 21,
+                        "unit": "%"
+                    },
+                    "2023": {
+                        "value": 29,
+                        "unit": "%"
+                    }
+                },
+                "ComponentsResoldIntoTheSecondaryMarket": {
+                    "2019": {
+                        "value": 10.0,
+                        "unit": "Million components"
+                    },
+                    "2020": {
+                        "value": 8.2,
+                        "unit": "Million components"
+                    },
+                    "2021": {
+                        "value": 4.9,
+                        "unit": "Million components"
+                    },
+                    "2022": {
+                        "value": 5.0,
+                        "unit": "Million components"
+                    },
+                    "2023": {
+                        "value": 7.0,
+                        "unit": "Million components"
+                    }
+                }
+            }
+        ],
+        "FoodWaste": [
+            {
+                "FoodWasteDivertedFromLandfill": {
+                    "2022": {
+                        "value": 85,
+                        "unit": "%"
+                    },
+                    "2023": {
+                        "value": 82,
+                        "unit": "%"
+                    }
+                }
+            }
+        ]
+    },
+    "DesignAndMaterials": [
+        {
+            "PlasticFreePackaging": [
+                {
+                    "newGoogleProductsLaunchedAndManufacturedEachYear": {
+                        "2021": {
+                            "value": 75,
+                            "unit": "%"
+                        },
+                        "2022": {
+                            "value": 96,
+                            "unit": "%"
+                        },
+                        "2023": {
+                            "value": 99,
+                            "unit": "%"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "RecycledOrRenewableMaterial": [
+                {
+                    "plasticsUsedAcrossOurConsumerHardwareProductPortfolio": {
+                        "2021": {
+                            "value": 0,
+                            "unit": "%"
+                        },
+                        "2022": {
+                            "value": 41,
+                            "unit": "%"
+                        },
+                        "2023": {
+                            "value": 34,
+                            "unit": "%"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "UrbanNature": [
+                {
+                    "HectaresOfHabitatCreatedOrRestored": {
+                        "2023": {
+                            "value": 67,
+                            "unit": "acres"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

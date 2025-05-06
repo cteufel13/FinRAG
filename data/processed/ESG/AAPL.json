@@ -1,0 +1,365 @@
+{
+    "Emissions": {
+        "GHGEmissions": {
+            "2015": {
+                "GrossEmissions": {
+                    "value": 38.4,
+                    "unit": "million metric tons CO2e"
+                }
+            },
+            "2019": {
+                "GrossEmissions": {
+                    "value": 25.1,
+                    "unit": "million metric tons CO2e"
+                }
+            },
+            "2024": {
+                "GrossEmissions": {
+                    "value": 15.3,
+                    "unit": "million metric tons CO2e"
+                },
+                "CarbonOffsetsRemoval": {
+                    "value": -0.7,
+                    "unit": "million metric tons CO2e"
+                },
+                "NetEmissions": {
+                    "value": 14.5,
+                    "unit": "million metric tons CO2e"
+                },
+                "AvoidedEmissions": {
+                    "value": 41,
+                    "unit": "million metric tons CO2e"
+                },
+                "ProductManufacturingScope3": {
+                    "value": 8.4,
+                    "unit": "million metric tons CO2e avoided"
+                },
+                "SupplierEnergyEfficiency": {
+                    "value": 2.0,
+                    "unit": "million metric tons CO2e avoided"
+                },
+                "DirectEmissionsAbatement": {
+                    "value": 6.2,
+                    "unit": "million metric tons CO2e avoided"
+                },
+                "LowCarbonMaterials": {
+                    "value": 21.8,
+                    "unit": "million metric tons CO2e avoided"
+                },
+                "SupplierCleanEnergy": {
+                    "value": 0.1,
+                    "unit": "million metric tons CO2e avoided"
+                },
+                "CorporateEnergyEfficiency": {
+                    "value": 1.2,
+                    "unit": "million metric tons CO2e avoided"
+                },
+                "UseOfRenewableElectricityCorporate": {
+                    "value": 1.0,
+                    "unit": "million metric tons CO2e avoided"
+                },
+                "UseOfRenewableElectricityProductUse": {
+                    "value": 0.3,
+                    "unit": "million metric tons CO2e avoided"
+                },
+                "AnnualDisplaySupplierAbatement": {
+                    "value": 8.4,
+                    "unit": "million metric tons CO2e"
+                }
+            },
+            "2030": {
+                "TargetedGrossEmissionsReduction": {
+                    "value": 75,
+                    "unit": "% reduction compared to 2015"
+                }
+            },
+            "AvoidedEmissionsBySupplierEnergyEfficiencyProgram": {
+                "2024": {
+                    "value": 2,
+                    "unit": "million metric tons CO2e"
+                }
+            }
+        },
+        "FluorinatedGreenhouseGases": {
+            "2024": {
+                "SupplierDisplayAndSemiconductorAbatement": {
+                    "value": 8.4,
+                    "unit": "million metric tons CO2e annualized"
+                }
+            }
+        }
+    },
+    "Materials": {
+        "RecycledRareEarthElements": {
+            "2023": {
+                "value": 75,
+                "unit": "%"
+            },
+            "2024": {
+                "value": 80,
+                "unit": "%"
+            }
+        },
+        "RecycledTungsten": {
+            "2024": {
+                "value": 99,
+                "unit": "%"
+            }
+        },
+        "RecycledAluminum": {
+            "2024": {
+                "value": 71,
+                "unit": "%"
+            }
+        },
+        "RecycledGold": {
+            "2021": {
+                "value": 1,
+                "unit": "%"
+            },
+            "2024": {
+                "value": 40,
+                "unit": "%"
+            },
+            "2025Target": {
+                "value": 100,
+                "unit": "%"
+            },
+            "CurrentValue": {
+                "value": 99,
+                "unit": "%"
+            }
+        },
+        "RecycledTin": {
+            "2023": {
+                "value": 40,
+                "unit": "%"
+            },
+            "2024": {
+                "value": 45,
+                "unit": "%"
+            },
+            "2025Target": {
+                "value": 100,
+                "unit": "%"
+            },
+            "CurrentValue": {
+                "value": 99,
+                "unit": "%"
+            }
+        },
+        "RecycledCobalt": {
+            "2023": {
+                "value": 52,
+                "unit": "%"
+            },
+            "2024": {
+                "value": 76,
+                "unit": "%"
+            },
+            "2025Target": {
+                "value": 100,
+                "unit": "%"
+            },
+            "CurrentValue": {
+                "value": 99,
+                "unit": "%"
+            }
+        },
+        "RecycledLithium": {
+            "2023": {
+                "value": 24,
+                "unit": "%"
+            },
+            "2024": {
+                "value": 53,
+                "unit": "%"
+            }
+        },
+        "ShippedMaterialsRecycledOrRenewable": {
+            "2024": {
+                "value": 24,
+                "unit": "%"
+            }
+        },
+        "RecycledSteel": {
+            "2024": {
+                "value": 80,
+                "unit": "%"
+            }
+        }
+    },
+    "Water": {
+        "SupplierWaterReuseRate": {
+            "2024": {
+                "value": 42,
+                "unit": "%"
+            },
+            "2030Target": {
+                "value": 50,
+                "unit": "%"
+            }
+        },
+        "CorporateLowWaterDesignAvoidance": {
+            "2024": {
+                "value": 161,
+                "unit": "million gallons of freshwater use"
+            }
+        },
+        "FreshwaterSavedSupplierCleanWaterProgram": {
+            "2024": {
+                "value": 14,
+                "unit": "billion gallons"
+            }
+        },
+        "CorporateWaterUsageAlternativeSourcesShare": {
+            "2024": {
+                "value": 13,
+                "unit": "%"
+            }
+        },
+        "CorporateWaterUse": {
+            "2024": {
+                "value": 1.8,
+                "unit": "billion gallons"
+            }
+        },
+        "CorporateSiteEfficiencySavings": {
+            "2024": {
+                "value": 96,
+                "unit": "million gallons of freshwater"
+            }
+        }
+    },
+    "Waste": {
+        "CorporateFacilitiesWasteDiversionRate": {
+            "2024": {
+                "value": 70,
+                "unit": "%"
+            },
+            "Target": {
+                "value": 100,
+                "unit": "%"
+            }
+        },
+        "FinalAssemblySitesZeroWasteToLandfill": {
+            "2015": {
+                "status": "Achieved"
+            },
+            "2018": {
+                "status": "Achieved"
+            },
+            "2024": {
+                "status": "Maintained"
+            }
+        },
+        "SupplierWasteDiversion": {
+            "2024": {
+                "value": 600000,
+                "unit": "metric tons"
+            },
+            "SinceProgramInception": {
+                "value": 3.6,
+                "unit": "million metric tons"
+            }
+        }
+    },
+    "Energy": {
+        "SupplierRenewableEnergyProcurement": {
+            "FY16": {
+                "value": 3,
+                "unit": "GW"
+            },
+            "FY18": {
+                "value": 6,
+                "unit": "GW"
+            },
+            "FY20": {
+                "value": 12,
+                "unit": "GW"
+            },
+            "FY22": {
+                "value": 17,
+                "unit": "GW"
+            },
+            "FY24": {
+                "value": 18,
+                "unit": "GW"
+            }
+        },
+        "SupplierFacilitiesElectricitySavings": {
+            "2024": {
+                "value": 2.5,
+                "unit": "billion kWh"
+            }
+        },
+        "CorporateFacilitiesEnergyEfficiencyAvoidance": {
+            "2024": {
+                "value": 57,
+                "unit": "million kilowatt-hours of electricity"
+            }
+        },
+        "CorporateFacilitiesNaturalGasEnergyEfficiencyAvoidance": {
+            "2024": {
+                "value": 314000,
+                "unit": "therms of natural gas"
+            }
+        },
+        "CorporateFacilitiesAnnualEnergyEfficiencyAvoidance": {
+            "2024": {
+                "value": 93000,
+                "unit": "metric tons CO2e"
+            }
+        },
+        "SupplierFacilitiesEnergyEfficiencyAvoidanceEmissions": {
+            "2024": {
+                "value": 2,
+                "unit": "million metric tons CO2e"
+            }
+        },
+        "SupplierRenewableEnergyProcurementCleanEnergyGeneration": {
+            "2024": {
+                "value": 31.3,
+                "unit": "million megawatt-hours"
+            }
+        },
+        "SupplierRenewableEnergyProcurementAvoidanceEmissions": {
+            "2024": {
+                "value": 21.8,
+                "unit": "million metric tons CO2e"
+            }
+        }
+    },
+    "Packaging": {
+        "PercentageOfFiberBasedPackagingUsed": {
+            "2015": {
+                "value": 39,
+                "unit": "%"
+            },
+            "2024": {
+                "value": 60,
+                "unit": "%"
+            }
+        },
+        "ResponsiblySourcedFiberUsagePercentage": {
+            "2015": {
+                "value": 21,
+                "unit": "%"
+            },
+            "2024": {
+                "value": 31,
+                "unit": "%"
+            }
+        },
+        "PackagingFiberPlasticFootprintPlasticPercentage": {
+            "2015": {
+                "value": 31,
+                "unit": "%"
+            },
+            "2024": {
+                "value": 1,
+                "unit": "%"
+            }
+        }
+    }
+}
