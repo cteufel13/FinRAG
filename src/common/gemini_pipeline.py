@@ -26,11 +26,10 @@ class GeminiPipeline:
         files = [
             os.path.join(self.source_path, f)
             for f in os.listdir(self.source_path)
-            if os.path.isfile(os.path.join(self.source_path, f))
+            if os.path.isfile(os.path.join(self.source_path, f) and f.endswith(".pdf"))
         ]
 
         for file in tqdm(files):
-            print(file)
             if file.endswith(".pdf"):
                 # Process the PDF file
                 text = self.process_pdf(file)
