@@ -30,6 +30,7 @@ class GeminiPipeline:
         ]
 
         for file in tqdm(files):
+            print(file)
             if file.endswith(".pdf"):
                 # Process the PDF file
                 text = self.process_pdf(file)
