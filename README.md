@@ -1,6 +1,6 @@
 
 
-# RAG for Document Analysis and Credit Risk Assessment
+# Introdution to RAG
 
 This repository provides a practical introduction to Retrieval-Augmented Generation (RAG) and demonstrates how RAG techniques can be applied to real-world use cases, including credit risk assessment.
 
