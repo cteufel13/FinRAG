@@ -50,7 +50,3 @@ RAG (Retrieval-Augmented Generation) is a hybrid approach that combines informat
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like me to include images, a usage demo, or installation instructions with `requirements.txt`.
